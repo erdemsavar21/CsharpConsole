@@ -1,0 +1,15 @@
+/Users/erdemsavar/Documents/Software Projects/C#_Works/csharpconsole/bin/Debug/net6.0/csharpconsole
+/Users/erdemsavar/Documents/Software Projects/C#_Works/csharpconsole/bin/Debug/net6.0/csharpconsole.deps.json
+/Users/erdemsavar/Documents/Software Projects/C#_Works/csharpconsole/bin/Debug/net6.0/csharpconsole.runtimeconfig.json
+/Users/erdemsavar/Documents/Software Projects/C#_Works/csharpconsole/bin/Debug/net6.0/csharpconsole.dll
+/Users/erdemsavar/Documents/Software Projects/C#_Works/csharpconsole/bin/Debug/net6.0/ref/csharpconsole.dll
+/Users/erdemsavar/Documents/Software Projects/C#_Works/csharpconsole/bin/Debug/net6.0/csharpconsole.pdb
+/Users/erdemsavar/Documents/Software Projects/C#_Works/csharpconsole/obj/Debug/net6.0/csharpconsole.csproj.AssemblyReference.cache
+/Users/erdemsavar/Documents/Software Projects/C#_Works/csharpconsole/obj/Debug/net6.0/csharpconsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erdemsavar/Documents/Software Projects/C#_Works/csharpconsole/obj/Debug/net6.0/csharpconsole.AssemblyInfoInputs.cache
+/Users/erdemsavar/Documents/Software Projects/C#_Works/csharpconsole/obj/Debug/net6.0/csharpconsole.AssemblyInfo.cs
+/Users/erdemsavar/Documents/Software Projects/C#_Works/csharpconsole/obj/Debug/net6.0/csharpconsole.csproj.CoreCompileInputs.cache
+/Users/erdemsavar/Documents/Software Projects/C#_Works/csharpconsole/obj/Debug/net6.0/csharpconsole.dll
+/Users/erdemsavar/Documents/Software Projects/C#_Works/csharpconsole/obj/Debug/net6.0/ref/csharpconsole.dll
+/Users/erdemsavar/Documents/Software Projects/C#_Works/csharpconsole/obj/Debug/net6.0/csharpconsole.pdb
+/Users/erdemsavar/Documents/Software Projects/C#_Works/csharpconsole/obj/Debug/net6.0/csharpconsole.genruntimeconfig.cache
