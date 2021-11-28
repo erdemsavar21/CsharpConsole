@@ -70,10 +70,38 @@ var players = GetPlayerYieldList();
 
 foreach (var player in players)
 {
-    Console.WriteLine($"Id:{player.Id.ToString()}-Name:{player.FullName}-Company:{player.Company}");
+    // Console.WriteLine($"Id:{player.Id.ToString()}-Name:{player.FullName}-Company:{player.Company}");
 }
 
 #endregion
+
+#region Encapsullation
+
+User user = new User();
+user.Name = "";
+Console.WriteLine(user.Name);
+
+#endregion
+
+class User
+{
+    // public string Name { get; set; } Bununla asagidaki ayni islemi görür. Eger atanan degeri veya okunan degere müdahale etmek istenirse Encapsulleme yapilir.
+    // public string Name { get; private set; } sadece readonly
+    // public string Name { private get; set; } sadece atama yapilabilir
+    private string name;
+    public string Name
+    {
+        // get
+        // {
+        //     return "Erdem";
+        // }
+        get { return name.ToUpper();}
+        set
+        {
+            name = (value!=String.Empty) ? value : "Empty Name";
+        }
+    }
+}
 
 class Rent
 {
@@ -86,4 +114,3 @@ class Player
     public string FullName { get; set; }
     public string Company { get; set; }
 }
-
